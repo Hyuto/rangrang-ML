@@ -1,0 +1,26 @@
+<annotation>
+	<folder>family picture with frame</folder>
+	<filename>1.38947335-portrait-of-a-happy-family-holding-picture-frame-and-smiling.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\1.38947335-portrait-of-a-happy-family-holding-picture-frame-and-smiling.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>10</ymin>
+			<xmax>1159</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+</annotation>

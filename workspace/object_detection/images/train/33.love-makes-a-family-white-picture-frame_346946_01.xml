@@ -1,0 +1,26 @@
+<annotation>
+	<folder>family picture with frame</folder>
+	<filename>33.love-makes-a-family-white-picture-frame_346946_01.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\33.love-makes-a-family-white-picture-frame_346946_01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1470</width>
+		<height>1470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>149</ymin>
+			<xmax>1461</xmax>
+			<ymax>1362</ymax>
+		</bndbox>
+	</object>
+</annotation>

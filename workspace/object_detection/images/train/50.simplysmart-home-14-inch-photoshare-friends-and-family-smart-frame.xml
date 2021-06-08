@@ -1,0 +1,26 @@
+<annotation>
+	<folder>family picture with frame</folder>
+	<filename>50.simplysmart-home-14-inch-photoshare-friends-and-family-smart-frame.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\50.simplysmart-home-14-inch-photoshare-friends-and-family-smart-frame.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>234</ymin>
+			<xmax>1482</xmax>
+			<ymax>1391</ymax>
+		</bndbox>
+	</object>
+</annotation>

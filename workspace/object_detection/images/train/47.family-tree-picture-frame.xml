@@ -1,0 +1,26 @@
+<annotation>
+	<folder>family picture with frame</folder>
+	<filename>47.family-tree-picture-frame.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\47.family-tree-picture-frame.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>474</xmin>
+			<ymin>346</ymin>
+			<xmax>1678</xmax>
+			<ymax>1987</ymax>
+		</bndbox>
+	</object>
+</annotation>

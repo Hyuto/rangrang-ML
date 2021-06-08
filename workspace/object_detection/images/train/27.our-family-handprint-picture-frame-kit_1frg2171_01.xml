@@ -1,0 +1,26 @@
+<annotation>
+	<folder>family picture with frame</folder>
+	<filename>27.our-family-handprint-picture-frame-kit_1frg2171_01.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\27.our-family-handprint-picture-frame-kit_1frg2171_01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>394</ymin>
+			<xmax>1879</xmax>
+			<ymax>1627</ymax>
+		</bndbox>
+	</object>
+</annotation>

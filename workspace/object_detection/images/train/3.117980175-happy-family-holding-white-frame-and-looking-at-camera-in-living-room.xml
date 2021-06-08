@@ -1,0 +1,26 @@
+<annotation>
+	<folder>family picture with frame</folder>
+	<filename>3.117980175-happy-family-holding-white-frame-and-looking-at-camera-in-living-room.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\3.117980175-happy-family-holding-white-frame-and-looking-at-camera-in-living-room.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>867</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foto</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>114</ymin>
+			<xmax>1194</xmax>
+			<ymax>867</ymax>
+		</bndbox>
+	</object>
+</annotation>

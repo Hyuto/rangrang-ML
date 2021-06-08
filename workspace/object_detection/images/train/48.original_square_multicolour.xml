@@ -1,0 +1,26 @@
+<annotation>
+	<folder>family picture with frame</folder>
+	<filename>48.original_square_multicolour.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\48.original_square_multicolour.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>898</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>11</ymin>
+			<xmax>846</xmax>
+			<ymax>894</ymax>
+		</bndbox>
+	</object>
+</annotation>

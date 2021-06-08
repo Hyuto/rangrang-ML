@@ -1,0 +1,26 @@
+<annotation>
+	<folder>family picture with frame</folder>
+	<filename>34.personalised-gift-for-family-photo-frames-framed-canvas-set-of-3-size-42-x-36-inch-couples-love-men-frame-khirki-in-photograph-green-photographic_867.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\34.personalised-gift-for-family-photo-frames-framed-canvas-set-of-3-size-42-x-36-inch-couples-love-men-frame-khirki-in-photograph-green-photographic_867.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>114</ymin>
+			<xmax>889</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+</annotation>

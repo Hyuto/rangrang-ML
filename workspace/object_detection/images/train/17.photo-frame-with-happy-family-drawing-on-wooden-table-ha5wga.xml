@@ -1,0 +1,26 @@
+<annotation>
+	<folder>family picture with frame</folder>
+	<filename>17.photo-frame-with-happy-family-drawing-on-wooden-table-ha5wga.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\17.photo-frame-with-happy-family-drawing-on-wooden-table-ha5wga.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>105</ymin>
+			<xmax>1124</xmax>
+			<ymax>824</ymax>
+		</bndbox>
+	</object>
+</annotation>

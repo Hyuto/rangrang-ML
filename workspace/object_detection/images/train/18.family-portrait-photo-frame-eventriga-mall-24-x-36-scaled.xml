@@ -1,0 +1,26 @@
+<annotation>
+	<folder>family picture with frame</folder>
+	<filename>18.family-portrait-photo-frame-eventriga-mall-24-x-36-scaled.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\18.family-portrait-photo-frame-eventriga-mall-24-x-36-scaled.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>2560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>foto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>312</ymin>
+			<xmax>2496</xmax>
+			<ymax>2295</ymax>
+		</bndbox>
+	</object>
+</annotation>
