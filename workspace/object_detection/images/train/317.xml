@@ -1,0 +1,26 @@
+<annotation>
+	<folder>poy</folder>
+	<filename>317.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\poy\317.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meja</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>645</xmin>
+			<ymin>344</ymin>
+			<xmax>1160</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+</annotation>
