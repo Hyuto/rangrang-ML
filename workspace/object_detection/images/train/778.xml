@@ -1,0 +1,26 @@
+<annotation>
+	<folder>table</folder>
+	<filename>778.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\table\778.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meja</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>648</ymin>
+			<xmax>1276</xmax>
+			<ymax>1216</ymax>
+		</bndbox>
+	</object>
+</annotation>
