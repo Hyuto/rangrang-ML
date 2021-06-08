@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>404_jpg.rf.8708e242f5e97aa01f0bf2fc5e49d18e.jpg</filename>
+	<path>404_jpg.rf.8708e242f5e97aa01f0bf2fc5e49d18e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sova</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>96</xmin>
+			<xmax>292</xmax>
+			<ymin>279</ymin>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

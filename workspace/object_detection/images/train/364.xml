@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>397_jpg.rf.a1a333ff43239dab71bcd72d0e4dc564.jpg</filename>
+	<path>397_jpg.rf.a1a333ff43239dab71bcd72d0e4dc564.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kursi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>66</xmin>
+			<xmax>154</xmax>
+			<ymin>231</ymin>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

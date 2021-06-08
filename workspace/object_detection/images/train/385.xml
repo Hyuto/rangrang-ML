@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>418_jpg.rf.ad89e9b4279f082d8b2d91ff408f1352.jpg</filename>
+	<path>418_jpg.rf.ad89e9b4279f082d8b2d91ff408f1352.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meja</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>246</xmin>
+			<xmax>414</xmax>
+			<ymin>248</ymin>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>
