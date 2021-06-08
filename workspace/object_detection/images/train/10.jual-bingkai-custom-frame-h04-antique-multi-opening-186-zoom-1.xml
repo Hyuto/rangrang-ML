@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lukisan frame</folder>
+	<filename>10.jual-bingkai-custom-frame-h04-antique-multi-opening-186-zoom-1.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\lukisan frame\10.jual-bingkai-custom-frame-h04-antique-multi-opening-186-zoom-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1050</width>
+		<height>1050</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lukisan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>247</ymin>
+			<xmax>1012</xmax>
+			<ymax>830</ymax>
+		</bndbox>
+	</object>
+</annotation>

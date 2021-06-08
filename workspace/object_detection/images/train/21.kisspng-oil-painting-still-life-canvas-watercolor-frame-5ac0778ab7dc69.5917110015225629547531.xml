@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lukisan frame</folder>
+	<filename>21.kisspng-oil-painting-still-life-canvas-watercolor-frame-5ac0778ab7dc69.5917110015225629547531.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\lukisan frame\21.kisspng-oil-painting-still-life-canvas-watercolor-frame-5ac0778ab7dc69.5917110015225629547531.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lukisan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>16</ymin>
+			<xmax>839</xmax>
+			<ymax>885</ymax>
+		</bndbox>
+	</object>
+</annotation>

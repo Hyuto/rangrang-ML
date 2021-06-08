@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lukisan frame</folder>
+	<filename>15.3ec56119fc7fdc27fed6e4a520df0144.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\lukisan frame\15.3ec56119fc7fdc27fed6e4a520df0144.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2226</width>
+		<height>3028</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lukisan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>30</ymin>
+			<xmax>2226</xmax>
+			<ymax>3028</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lukisan frame</folder>
+	<filename>36.lukisan_chaziq_oil_on_canvas_ibu_dan_anak_with_frame_1541424456_5df66f72.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\lukisan frame\36.lukisan_chaziq_oil_on_canvas_ibu_dan_anak_with_frame_1541424456_5df66f72.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>864</width>
+		<height>1065</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lukisan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>10</ymin>
+			<xmax>860</xmax>
+			<ymax>1065</ymax>
+		</bndbox>
+	</object>
+</annotation>
