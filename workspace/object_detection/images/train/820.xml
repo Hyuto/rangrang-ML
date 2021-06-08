@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tv</folder>
+	<filename>820.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\tv\820.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meja</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>297</ymin>
+			<xmax>923</xmax>
+			<ymax>725</ymax>
+		</bndbox>
+	</object>
+</annotation>

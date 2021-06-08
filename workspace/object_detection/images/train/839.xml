@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tv</folder>
+	<filename>839.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\tv\839.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1560</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tv</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>15</ymin>
+			<xmax>1506</xmax>
+			<ymax>894</ymax>
+		</bndbox>
+	</object>
+</annotation>

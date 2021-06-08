@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jam dinding</folder>
+	<filename>868.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\jam dinding\868.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jam dinding</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>96</ymin>
+			<xmax>611</xmax>
+			<ymax>974</ymax>
+		</bndbox>
+	</object>
+</annotation>
