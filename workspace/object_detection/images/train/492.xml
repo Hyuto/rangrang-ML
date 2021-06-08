@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chair</folder>
+	<filename>26.urb-111-ye_co2-scaled.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\chair\26.urb-111-ye_co2-scaled.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2113</width>
+		<height>2560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kursi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>11</ymin>
+			<xmax>1844</xmax>
+			<ymax>2539</ymax>
+		</bndbox>
+	</object>
+</annotation>

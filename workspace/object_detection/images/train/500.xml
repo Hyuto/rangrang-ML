@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chair</folder>
+	<filename>33.furniture-chairs-conference-chair-charcoal.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\chair\33.furniture-chairs-conference-chair-charcoal.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5419</width>
+		<height>5419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kursi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1012</xmin>
+			<ymin>188</ymin>
+			<xmax>4036</xmax>
+			<ymax>5259</ymax>
+		</bndbox>
+	</object>
+</annotation>

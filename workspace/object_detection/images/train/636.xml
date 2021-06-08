@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mug</folder>
+	<filename>636.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\mug\636.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1195</width>
+		<height>1195</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gelas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>183</ymin>
+			<xmax>1084</xmax>
+			<ymax>1049</ymax>
+		</bndbox>
+	</object>
+</annotation>

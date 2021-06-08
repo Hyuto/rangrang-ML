@@ -1,0 +1,26 @@
+<annotation>
+	<folder>potted plant</folder>
+	<filename>49.fejka-artificial-potted-plant-with-pot-in-outdoor-poinsettia-white__0919762_pe787038_s5.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\potted plant\49.fejka-artificial-potted-plant-with-pot-in-outdoor-poinsettia-white__0919762_pe787038_s5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>1400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tanaman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>25</ymin>
+			<xmax>1097</xmax>
+			<ymax>1357</ymax>
+		</bndbox>
+	</object>
+</annotation>

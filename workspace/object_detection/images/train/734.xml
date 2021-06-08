@@ -1,0 +1,26 @@
+<annotation>
+	<folder>potted plant</folder>
+	<filename>28.kalanchoe-potted-plant-green-p33679-39230_zoom.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\potted plant\28.kalanchoe-potted-plant-green-p33679-39230_zoom.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tanaman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>316</ymin>
+			<xmax>1862</xmax>
+			<ymax>1848</ymax>
+		</bndbox>
+	</object>
+</annotation>

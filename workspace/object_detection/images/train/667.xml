@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pillow</folder>
+	<filename>10.milkyway_-milkyway-_bantal_micro-_micro_pillow_1pcs_full01_gfs68iyk.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\pillow\10.milkyway_-milkyway-_bantal_micro-_micro_pillow_1pcs_full01_gfs68iyk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1198</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bantal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>137</ymin>
+			<xmax>945</xmax>
+			<ymax>762</ymax>
+		</bndbox>
+	</object>
+</annotation>

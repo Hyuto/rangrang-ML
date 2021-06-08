@@ -1,0 +1,26 @@
+<annotation>
+	<folder>couch</folder>
+	<filename>41.spr-home-the-7-best-couches-of-2021-4150654-primary-0c857437347941f19f811ed7e908db6b.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\couch\41.spr-home-the-7-best-couches-of-2021-4150654-primary-0c857437347941f19f811ed7e908db6b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1779</width>
+		<height>1334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sova</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>321</ymin>
+			<xmax>1604</xmax>
+			<ymax>917</ymax>
+		</bndbox>
+	</object>
+</annotation>

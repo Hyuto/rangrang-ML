@@ -1,0 +1,26 @@
+<annotation>
+	<folder>potted plant</folder>
+	<filename>43.20200611054625_file_5ee1c5317ad61_5ee1c688093c5.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\potted plant\43.20200611054625_file_5ee1c5317ad61_5ee1c688093c5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6720</width>
+		<height>4480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tanaman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1267</xmin>
+			<ymin>287</ymin>
+			<xmax>5802</xmax>
+			<ymax>4367</ymax>
+		</bndbox>
+	</object>
+</annotation>

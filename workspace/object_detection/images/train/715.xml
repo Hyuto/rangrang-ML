@@ -1,0 +1,26 @@
+<annotation>
+	<folder>potted plant</folder>
+	<filename>10.houseplant-young-schefflera-a-potted-plant-isolated-over-white-picture-id478131900.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\potted plant\10.houseplant-young-schefflera-a-potted-plant-isolated-over-white-picture-id478131900.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>909</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tanaman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>168</ymin>
+			<xmax>871</xmax>
+			<ymax>832</ymax>
+		</bndbox>
+	</object>
+</annotation>

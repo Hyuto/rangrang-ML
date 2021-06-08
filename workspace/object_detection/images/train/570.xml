@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lamp</folder>
+	<filename>12.8584f892e1421b6a7d0f7c4a82b92c89.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\lamp\12.8584f892e1421b6a7d0f7c4a82b92c89.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lampu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>70</ymin>
+			<xmax>965</xmax>
+			<ymax>989</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pillow</folder>
+	<filename>703.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\pillow\703.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>2024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bantal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>112</ymin>
+			<xmax>1487</xmax>
+			<ymax>1737</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>couch</folder>
+	<filename>35.3b096834d99f772c55629c936a35dbfc.png</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\couch\35.3b096834d99f772c55629c936a35dbfc.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sova</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>116</ymin>
+			<xmax>500</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

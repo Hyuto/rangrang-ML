@@ -1,0 +1,26 @@
+<annotation>
+	<folder>couch</folder>
+	<filename>33.a740b5a5-8861-4ac9-acbe-1ec11b6a908f--joybird_sunbrella.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\couch\33.a740b5a5-8861-4ac9-acbe-1ec11b6a908f--joybird_sunbrella.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sova</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>196</ymin>
+			<xmax>1200</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+</annotation>

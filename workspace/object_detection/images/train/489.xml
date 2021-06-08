@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chair</folder>
+	<filename>22.shopify-image_ee3f6d98-642c-4f6d-bd8e-5d9c156e3383_1400x.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\chair\22.shopify-image_ee3f6d98-642c-4f6d-bd8e-5d9c156e3383_1400x.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>1400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kursi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>14</ymin>
+			<xmax>1186</xmax>
+			<ymax>1400</ymax>
+		</bndbox>
+	</object>
+</annotation>

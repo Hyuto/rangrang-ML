@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pillow</folder>
+	<filename>1.11-2019_s4a_supreme_pillow1_king_pdp_retouched_300dpi_rgb_2x3_m.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\pillow\1.11-2019_s4a_supreme_pillow1_king_pdp_retouched_300dpi_rgb_2x3_m.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1067</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bantal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>117</ymin>
+			<xmax>1458</xmax>
+			<ymax>960</ymax>
+		</bndbox>
+	</object>
+</annotation>

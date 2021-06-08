@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chair</folder>
+	<filename>23.cocktail_chair_bearder_leopard_front.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\chair\23.cocktail_chair_bearder_leopard_front.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kursi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>821</xmin>
+			<ymin>397</ymin>
+			<xmax>1543</xmax>
+			<ymax>1156</ymax>
+		</bndbox>
+	</object>
+</annotation>

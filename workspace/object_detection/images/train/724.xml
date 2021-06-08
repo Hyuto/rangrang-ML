@@ -1,0 +1,26 @@
+<annotation>
+	<folder>potted plant</folder>
+	<filename>19.undef_src_sa_picid_795904_type_whitesh_image.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\potted plant\19.undef_src_sa_picid_795904_type_whitesh_image.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4372</width>
+		<height>3279</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tanaman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1537</xmin>
+			<ymin>312</ymin>
+			<xmax>2966</xmax>
+			<ymax>3027</ymax>
+		</bndbox>
+	</object>
+</annotation>

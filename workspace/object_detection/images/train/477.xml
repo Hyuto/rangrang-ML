@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chair</folder>
+	<filename>10._200513120143_tulangbawang%20lounge%20chair%20%286%29__zoom.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\chair\10._200513120143_tulangbawang%20lounge%20chair%20%286%29__zoom.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kursi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>181</ymin>
+			<xmax>817</xmax>
+			<ymax>878</ymax>
+		</bndbox>
+	</object>
+</annotation>

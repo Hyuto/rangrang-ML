@@ -1,0 +1,26 @@
+<annotation>
+	<folder>book</folder>
+	<filename>12.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\book\12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4478</width>
+		<height>1808</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>buku</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>550</ymin>
+			<xmax>4401</xmax>
+			<ymax>1479</ymax>
+		</bndbox>
+	</object>
+</annotation>

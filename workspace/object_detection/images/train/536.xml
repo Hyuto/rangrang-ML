@@ -1,0 +1,26 @@
+<annotation>
+	<folder>couch</folder>
+	<filename>19.lin_8720-2-scaled.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\couch\19.lin_8720-2-scaled.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>2560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sova</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>1039</ymin>
+			<xmax>2461</xmax>
+			<ymax>1959</ymax>
+		</bndbox>
+	</object>
+</annotation>

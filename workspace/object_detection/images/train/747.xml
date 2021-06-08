@@ -1,0 +1,26 @@
+<annotation>
+	<folder>potted plant</folder>
+	<filename>40.midsection-of-teenage-girl-holding-potted-plant-amid-plants-eyf09480.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\potted plant\40.midsection-of-teenage-girl-holding-potted-plant-amid-plants-eyf09480.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1232</width>
+		<height>845</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tanaman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>467</xmin>
+			<ymin>224</ymin>
+			<xmax>744</xmax>
+			<ymax>683</ymax>
+		</bndbox>
+	</object>
+</annotation>

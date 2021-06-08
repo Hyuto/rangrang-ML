@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chair</folder>
+	<filename>37.r2424570_30.jpg</filename>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\chair\37.r2424570_30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kursi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>45</ymin>
+			<xmax>822</xmax>
+			<ymax>974</ymax>
+		</bndbox>
+	</object>
+</annotation>
