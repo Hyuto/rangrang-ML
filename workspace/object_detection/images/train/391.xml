@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
-	<filename>424_jpeg_jpg.rf.a5d6d88c2c7d93af38dfea373afb3e04.jpg</filename>
-	<path>424_jpeg_jpg.rf.a5d6d88c2c7d93af38dfea373afb3e04.jpg</path>
+	<folder>train</folder>
+	<filename>391.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\391.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -16,24 +16,22 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>131</xmin>
-			<xmax>169</xmax>
 			<ymin>180</ymin>
+			<xmax>169</xmax>
 			<ymax>300</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>sova</name>
+		<name>kursi</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>265</xmin>
-			<xmax>332</xmax>
 			<ymin>245</ymin>
+			<xmax>332</xmax>
 			<ymax>406</ymax>
 		</bndbox>
 	</object>
@@ -42,11 +40,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>2</xmin>
-			<xmax>31</xmax>
 			<ymin>44</ymin>
+			<xmax>31</xmax>
 			<ymax>307</ymax>
 		</bndbox>
 	</object>
@@ -55,11 +52,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>85</xmin>
-			<xmax>214</xmax>
 			<ymin>273</ymin>
+			<xmax>214</xmax>
 			<ymax>388</ymax>
 		</bndbox>
 	</object>
@@ -68,12 +64,23 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>131</xmin>
-			<xmax>242</xmax>
 			<ymin>158</ymin>
+			<xmax>242</xmax>
 			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sova</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>304</ymin>
+			<xmax>223</xmax>
+			<ymax>416</ymax>
 		</bndbox>
 	</object>
 </annotation>

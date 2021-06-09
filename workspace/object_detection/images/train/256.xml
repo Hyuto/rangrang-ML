@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
-	<filename>256_jpg.rf.36c7b9464503745cebe7d650caca12c9.jpg</filename>
-	<path>256_jpg.rf.36c7b9464503745cebe7d650caca12c9.jpg</path>
+	<folder>train</folder>
+	<filename>256.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\256.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -12,15 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tanaman</name>
+		<name>meja</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>206</xmin>
-			<xmax>412</xmax>
 			<ymin>234</ymin>
+			<xmax>412</xmax>
 			<ymax>378</ymax>
 		</bndbox>
 	</object>
@@ -29,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>123</xmin>
-			<xmax>379</xmax>
 			<ymin>175</ymin>
+			<xmax>379</xmax>
 			<ymax>290</ymax>
 		</bndbox>
 	</object>
@@ -42,11 +40,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>18</xmin>
-			<xmax>211</xmax>
 			<ymin>230</ymin>
+			<xmax>211</xmax>
 			<ymax>411</ymax>
 		</bndbox>
 	</object>
@@ -55,11 +52,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>231</xmin>
-			<xmax>368</xmax>
 			<ymin>26</ymin>
+			<xmax>368</xmax>
 			<ymax>91</ymax>
 		</bndbox>
 	</object>
@@ -68,11 +64,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>37</xmin>
-			<xmax>129</xmax>
 			<ymin>36</ymin>
+			<xmax>129</xmax>
 			<ymax>122</ymax>
 		</bndbox>
 	</object>
@@ -81,11 +76,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>117</xmin>
-			<xmax>196</xmax>
 			<ymin>30</ymin>
+			<xmax>196</xmax>
 			<ymax>76</ymax>
 		</bndbox>
 	</object>

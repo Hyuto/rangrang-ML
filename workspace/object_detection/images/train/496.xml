@@ -1,13 +1,13 @@
 <annotation>
-	<folder>chair</folder>
-	<filename>3.alston-oak-dining-chair-64334-64283.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\chair\3.alston-oak-dining-chair-64334-64283.jpg</path>
+	<folder>train</folder>
+	<filename>496.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\496.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>900</width>
-		<height>900</height>
+		<width>1000</width>
+		<height>1000</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>182</xmin>
-			<ymin>4</ymin>
-			<xmax>665</xmax>
-			<ymax>864</ymax>
+			<xmin>184</xmin>
+			<ymin>98</ymin>
+			<xmax>850</xmax>
+			<ymax>994</ymax>
 		</bndbox>
 	</object>
 </annotation>

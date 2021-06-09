@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
-	<filename>272_jpg.rf.692fc52b554e4ff66ae9b876297345fd.jpg</filename>
-	<path>272_jpg.rf.692fc52b554e4ff66ae9b876297345fd.jpg</path>
+	<folder>train</folder>
+	<filename>272.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\272.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -12,28 +12,26 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tanaman</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>163</xmin>
-			<xmax>328</xmax>
-			<ymin>237</ymin>
-			<ymax>350</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>meja</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>237</ymin>
+			<xmax>328</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lampu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>216</xmin>
-			<xmax>248</xmax>
 			<ymin>116</ymin>
+			<xmax>248</xmax>
 			<ymax>194</ymax>
 		</bndbox>
 	</object>
@@ -42,11 +40,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>246</xmin>
-			<xmax>400</xmax>
 			<ymin>151</ymin>
+			<xmax>400</xmax>
 			<ymax>295</ymax>
 		</bndbox>
 	</object>
@@ -55,24 +52,22 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>28</xmin>
-			<xmax>226</xmax>
 			<ymin>152</ymin>
+			<xmax>226</xmax>
 			<ymax>311</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>meja</name>
+		<name>lampu</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>2</xmin>
-			<xmax>33</xmax>
 			<ymin>98</ymin>
+			<xmax>33</xmax>
 			<ymax>239</ymax>
 		</bndbox>
 	</object>

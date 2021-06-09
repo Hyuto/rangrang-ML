@@ -1,26 +1,26 @@
 <annotation>
-	<folder>chair</folder>
-	<filename>24.twyfchaiyell_1_zoom.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\chair\24.twyfchaiyell_1_zoom.jpg</path>
+	<folder>train</folder>
+	<filename>491.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\491.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2000</width>
-		<height>2000</height>
+		<width>2400</width>
+		<height>1200</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>kursi</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>347</xmin>
-			<ymin>46</ymin>
-			<xmax>1664</xmax>
-			<ymax>1972</ymax>
+			<xmin>744</xmin>
+			<ymin>121</ymin>
+			<xmax>1666</xmax>
+			<ymax>1200</ymax>
 		</bndbox>
 	</object>
 </annotation>

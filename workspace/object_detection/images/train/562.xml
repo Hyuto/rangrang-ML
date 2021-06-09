@@ -1,13 +1,13 @@
 <annotation>
-	<folder>couch</folder>
-	<filename>5.gear-benchmade-modern-tyler-sofa-source-benchmade-modern.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\couch\5.gear-benchmade-modern-tyler-sofa-source-benchmade-modern.jpg</path>
+	<folder>train</folder>
+	<filename>562.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\562.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2400</width>
-		<height>1800</height>
+		<width>1200</width>
+		<height>1200</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>319</xmin>
-			<ymin>557</ymin>
-			<xmax>2044</xmax>
-			<ymax>1339</ymax>
+			<xmin>56</xmin>
+			<ymin>367</ymin>
+			<xmax>1140</xmax>
+			<ymax>973</ymax>
 		</bndbox>
 	</object>
 </annotation>

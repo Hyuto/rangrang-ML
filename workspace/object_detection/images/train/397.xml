@@ -1,7 +1,7 @@
 <annotation>
-	<folder>poy</folder>
-	<filename>313.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\poy\313.jpg</path>
+	<folder>train</folder>
+	<filename>397.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\397.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,6 +45,18 @@
 			<ymin>847</ymin>
 			<xmax>314</xmax>
 			<ymax>1253</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kursi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>846</ymin>
+			<xmax>786</xmax>
+			<ymax>1148</ymax>
 		</bndbox>
 	</object>
 </annotation>

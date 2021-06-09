@@ -1,26 +1,26 @@
 <annotation>
-	<folder>chair</folder>
-	<filename>32.arte-dining-chair-outdoor-wicker-dining-chair-perspective.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\chair\32.arte-dining-chair-outdoor-wicker-dining-chair-perspective.jpg</path>
+	<folder>train</folder>
+	<filename>499.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\499.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1365</width>
-		<height>2048</height>
+		<width>1400</width>
+		<height>1356</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>kursi</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>239</xmin>
-			<ymin>384</ymin>
-			<xmax>1123</xmax>
-			<ymax>1653</ymax>
+			<xmin>46</xmin>
+			<ymin>35</ymin>
+			<xmax>1341</xmax>
+			<ymax>1356</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
-	<filename>239_jpg.rf.375057c90dc974be6cac7ea484d35eab.jpg</filename>
-	<path>239_jpg.rf.375057c90dc974be6cac7ea484d35eab.jpg</path>
+	<folder>train</folder>
+	<filename>239.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\239.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -16,11 +16,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>47</xmin>
-			<xmax>148</xmax>
 			<ymin>185</ymin>
+			<xmax>148</xmax>
 			<ymax>284</ymax>
 		</bndbox>
 	</object>
@@ -29,25 +28,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>293</xmin>
-			<xmax>395</xmax>
 			<ymin>203</ymin>
+			<xmax>395</xmax>
 			<ymax>364</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tanaman</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>139</xmin>
-			<xmax>259</xmax>
-			<ymin>249</ymin>
-			<ymax>356</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,24 +40,34 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>249</ymin>
+			<xmax>259</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lampu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>312</xmin>
-			<xmax>349</xmax>
 			<ymin>110</ymin>
+			<xmax>349</xmax>
 			<ymax>217</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>kursi</name>
+		<name>tanaman</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>87</xmin>
-			<xmax>127</xmax>
 			<ymin>21</ymin>
+			<xmax>127</xmax>
 			<ymax>187</ymax>
 		</bndbox>
 	</object>

@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
-	<filename>298_jpg.rf.1ef3869105e63aa1fdaa8dff65f577c0.jpg</filename>
-	<path>298_jpg.rf.1ef3869105e63aa1fdaa8dff65f577c0.jpg</path>
+	<folder>train</folder>
+	<filename>298.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\298.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -12,15 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tanaman</name>
+		<name>meja</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>143</xmin>
-			<xmax>209</xmax>
 			<ymin>289</ymin>
+			<xmax>209</xmax>
 			<ymax>371</ymax>
 		</bndbox>
 	</object>
@@ -29,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>155</xmin>
-			<xmax>347</xmax>
 			<ymin>237</ymin>
+			<xmax>347</xmax>
 			<ymax>359</ymax>
 		</bndbox>
 	</object>

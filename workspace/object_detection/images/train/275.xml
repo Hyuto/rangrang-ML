@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
-	<filename>275_jpg.rf.3b6211c8cc6b36e57afe48f587c30188.jpg</filename>
-	<path>275_jpg.rf.3b6211c8cc6b36e57afe48f587c30188.jpg</path>
+	<folder>train</folder>
+	<filename>275.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\275.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -12,93 +12,86 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>lanmpu</name>
+		<name>lampu</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>84</xmin>
-			<xmax>338</xmax>
 			<ymin>118</ymin>
+			<xmax>338</xmax>
 			<ymax>324</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>lanmpu</name>
+		<name>lampu</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>9</xmin>
-			<xmax>77</xmax>
 			<ymin>115</ymin>
+			<xmax>77</xmax>
 			<ymax>187</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>lanmpu</name>
+		<name>lampu</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>20</xmin>
-			<xmax>66</xmax>
 			<ymin>214</ymin>
+			<xmax>66</xmax>
 			<ymax>279</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>lanmpu</name>
+		<name>lampu</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>110</xmin>
-			<xmax>187</xmax>
 			<ymin>24</ymin>
+			<xmax>187</xmax>
 			<ymax>112</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>lanmpu</name>
+		<name>lampu</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>235</xmin>
-			<xmax>312</xmax>
 			<ymin>27</ymin>
+			<xmax>312</xmax>
 			<ymax>116</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>lanmpu</name>
+		<name>lampu</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>343</xmin>
-			<xmax>411</xmax>
 			<ymin>123</ymin>
+			<xmax>411</xmax>
 			<ymax>195</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>lanmpu</name>
+		<name>lampu</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>355</xmin>
-			<xmax>401</xmax>
 			<ymin>216</ymin>
+			<xmax>401</xmax>
 			<ymax>285</ymax>
 		</bndbox>
 	</object>

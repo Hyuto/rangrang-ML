@@ -1,13 +1,13 @@
 <annotation>
-	<folder>couch</folder>
-	<filename>16.no_brand_sarung_pelindung_sofa_couch_coat_reversible_sofa_alas_duduk_binatang_cover_sofa_full01_sai5bs7k.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\couch\16.no_brand_sarung_pelindung_sofa_couch_coat_reversible_sofa_alas_duduk_binatang_cover_sofa_full01_sai5bs7k.jpg</path>
+	<folder>train</folder>
+	<filename>533.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\533.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>1200</height>
+		<width>900</width>
+		<height>900</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>42</xmin>
-			<ymin>639</ymin>
-			<xmax>791</xmax>
-			<ymax>1031</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>sova</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>5</xmin>
-			<ymin>114</ymin>
-			<xmax>800</xmax>
-			<ymax>485</ymax>
+			<xmin>15</xmin>
+			<ymin>195</ymin>
+			<xmax>880</xmax>
+			<ymax>727</ymax>
 		</bndbox>
 	</object>
 </annotation>

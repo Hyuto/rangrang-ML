@@ -1,13 +1,13 @@
 <annotation>
-	<folder>chair</folder>
-	<filename>36._190823131111_alvint_malya_3_zoom.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\chair\36._190823131111_alvint_malya_3_zoom.jpg</path>
+	<folder>train</folder>
+	<filename>503.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\503.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1000</width>
-		<height>1000</height>
+		<width>1366</width>
+		<height>650</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>205</xmin>
-			<ymin>155</ymin>
-			<xmax>780</xmax>
-			<ymax>868</ymax>
+			<xmin>4</xmin>
+			<ymin>23</ymin>
+			<xmax>569</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kursi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>725</xmin>
+			<ymin>76</ymin>
+			<xmax>1316</xmax>
+			<ymax>626</ymax>
 		</bndbox>
 	</object>
 </annotation>

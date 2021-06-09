@@ -1,13 +1,13 @@
 <annotation>
-	<folder>couch</folder>
-	<filename>36.sofa-urba-3se-99_01.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\couch\36.sofa-urba-3se-99_01.jpg</path>
+	<folder>train</folder>
+	<filename>551.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\551.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1024</width>
-		<height>768</height>
+		<width>2500</width>
+		<height>1407</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>186</xmin>
-			<ymin>321</ymin>
-			<xmax>832</xmax>
-			<ymax>610</ymax>
+			<xmin>367</xmin>
+			<ymin>439</ymin>
+			<xmax>2211</xmax>
+			<ymax>1208</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tanaman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2247</xmin>
+			<ymin>515</ymin>
+			<xmax>2470</xmax>
+			<ymax>755</ymax>
 		</bndbox>
 	</object>
 </annotation>

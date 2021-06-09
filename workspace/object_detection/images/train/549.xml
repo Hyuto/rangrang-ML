@@ -1,13 +1,13 @@
 <annotation>
-	<folder>couch</folder>
-	<filename>34.sbed-e-l207-li-gy-abc-00_05180dd0-ed05-4c50-9f58-3b064a804a59_1024x1024.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\couch\34.sbed-e-l207-li-gy-abc-00_05180dd0-ed05-4c50-9f58-3b064a804a59_1024x1024.jpg</path>
+	<folder>train</folder>
+	<filename>549.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\549.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1000</width>
-		<height>1000</height>
+		<width>1500</width>
+		<height>1005</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>15</xmin>
-			<ymin>325</ymin>
-			<xmax>974</xmax>
-			<ymax>770</ymax>
+			<xmin>123</xmin>
+			<ymin>468</ymin>
+			<xmax>1448</xmax>
+			<ymax>927</ymax>
 		</bndbox>
 	</object>
 </annotation>

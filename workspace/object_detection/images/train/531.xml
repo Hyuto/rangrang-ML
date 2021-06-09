@@ -1,26 +1,26 @@
 <annotation>
-	<folder>couch</folder>
-	<filename>14.cara%2b3x2.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\couch\14.cara%2b3x2.jpg</path>
+	<folder>train</folder>
+	<filename>531.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\531.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2500</width>
-		<height>1667</height>
+		<width>1500</width>
+		<height>877</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>sova</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>250</xmin>
-			<ymin>509</ymin>
-			<xmax>2206</xmax>
-			<ymax>1357</ymax>
+			<xmin>1</xmin>
+			<ymin>29</ymin>
+			<xmax>1500</xmax>
+			<ymax>877</ymax>
 		</bndbox>
 	</object>
 </annotation>

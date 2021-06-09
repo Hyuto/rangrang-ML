@@ -1,7 +1,7 @@
 <annotation>
-	<folder>poy</folder>
-	<filename>318.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\poy\318.jpg</path>
+	<folder>train</folder>
+	<filename>402.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\402.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -53,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1110</xmin>
+			<xmin>1109</xmin>
 			<ymin>110</ymin>
-			<xmax>1253</xmax>
+			<xmax>1252</xmax>
 			<ymax>333</ymax>
 		</bndbox>
 	</object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>61</xmin>
-			<ymin>138</ymin>
-			<xmax>257</xmax>
-			<ymax>336</ymax>
+			<xmin>62</xmin>
+			<ymin>137</ymin>
+			<xmax>258</xmax>
+			<ymax>335</ymax>
 		</bndbox>
 	</object>
 </annotation>
