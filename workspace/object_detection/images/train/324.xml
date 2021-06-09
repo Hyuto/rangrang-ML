@@ -1,7 +1,11 @@
 <annotation>
 	<folder>train</folder>
 	<filename>324.jpg</filename>
+<<<<<<< HEAD
 	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\324.jpg</path>
+=======
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\324.jpg</path>
+>>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -36,6 +40,7 @@
 		</bndbox>
 	</object>
 	<object>
+<<<<<<< HEAD
 		<name>bantal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -60,11 +65,14 @@
 		</bndbox>
 	</object>
 	<object>
+=======
+>>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 		<name>tanaman</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< HEAD
 			<xmin>309</xmin>
 			<ymin>317</ymin>
 			<xmax>364</xmax>
@@ -95,4 +103,12 @@
 			<ymax>217</ymax>
 		</bndbox>
 	</object>
+=======
+			<xmin>301</xmin>
+			<ymin>319</ymin>
+			<xmax>379</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+>>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 </annotation>

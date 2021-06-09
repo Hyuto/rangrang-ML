@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
-	<filename>246_jpg.rf.28e30fcf0f214ac8e50e4bfac3877466.jpg</filename>
-	<path>246_jpg.rf.28e30fcf0f214ac8e50e4bfac3877466.jpg</path>
+	<folder>train</folder>
+	<filename>246.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\246.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -14,27 +14,25 @@
 	<object>
 		<name>sova</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>63</xmin>
-			<xmax>417</xmax>
+			<xmin>62</xmin>
 			<ymin>319</ymin>
+			<xmax>416</xmax>
 			<ymax>416</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>lampu</name>
+		<name>kursi</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>70</xmin>
+			<ymin>252</ymin>
 			<xmax>154</xmax>
-			<ymin>253</ymin>
-			<ymax>343</ymax>
+			<ymax>342</ymax>
 		</bndbox>
 	</object>
 </annotation>

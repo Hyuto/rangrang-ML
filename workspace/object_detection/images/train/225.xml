@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
-	<filename>225_jpg.rf.a79d5dd9f113921fbb2c87dce4aec543.jpg</filename>
-	<path>225_jpg.rf.a79d5dd9f113921fbb2c87dce4aec543.jpg</path>
+	<folder>train</folder>
+	<filename>225.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\225.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -16,51 +16,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>9</xmin>
-			<xmax>260</xmax>
 			<ymin>237</ymin>
+			<xmax>260</xmax>
 			<ymax>329</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>kursi</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>129</xmin>
-			<xmax>183</xmax>
-			<ymin>245</ymin>
-			<ymax>313</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>kursi</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>207</xmin>
-			<xmax>257</xmax>
-			<ymin>183</ymin>
-			<ymax>217</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>lampu</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>166</xmin>
-			<xmax>278</xmax>
-			<ymin>308</ymin>
-			<ymax>417</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -68,12 +28,35 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>69</xmin>
-			<xmax>275</xmax>
-			<ymin>289</ymin>
-			<ymax>371</ymax>
+			<xmin>129</xmin>
+			<ymin>245</ymin>
+			<xmax>183</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tanaman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>183</ymin>
+			<xmax>257</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kursi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>308</ymin>
+			<xmax>278</xmax>
+			<ymax>417</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -81,11 +64,22 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>289</ymin>
+			<xmax>275</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lampu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>174</xmin>
-			<xmax>260</xmax>
 			<ymin>61</ymin>
+			<xmax>260</xmax>
 			<ymax>111</ymax>
 		</bndbox>
 	</object>
@@ -94,11 +88,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>243</xmin>
-			<xmax>417</xmax>
 			<ymin>239</ymin>
+			<xmax>417</xmax>
 			<ymax>365</ymax>
 		</bndbox>
 	</object>

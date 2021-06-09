@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
-	<filename>232_jpg.rf.2fd8730a3c98672730b263854eb51c4a.jpg</filename>
-	<path>232_jpg.rf.2fd8730a3c98672730b263854eb51c4a.jpg</path>
+	<folder>train</folder>
+	<filename>232.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\232.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -16,12 +16,23 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>54</xmin>
+			<ymin>226</ymin>
 			<xmax>291</xmax>
-			<ymin>227</ymin>
-			<ymax>411</ymax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lampu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>86</ymin>
+			<xmax>121</xmax>
+			<ymax>230</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,24 +40,22 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>43</xmin>
-			<xmax>121</xmax>
-			<ymin>86</ymin>
-			<ymax>230</ymax>
+			<xmin>250</xmin>
+			<ymin>295</ymin>
+			<xmax>302</xmax>
+			<ymax>417</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>tanaman</name>
+		<name>kursi</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>250</xmin>
-			<xmax>302</xmax>
-			<ymin>295</ymin>
+			<xmin>305</xmin>
+			<ymin>329</ymin>
+			<xmax>407</xmax>
 			<ymax>417</ymax>
 		</bndbox>
 	</object>
@@ -55,37 +64,22 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>305</xmin>
-			<xmax>407</xmax>
-			<ymin>329</ymin>
-			<ymax>417</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>meja</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>316</xmin>
-			<xmax>354</xmax>
 			<ymin>210</ymin>
+			<xmax>354</xmax>
 			<ymax>330</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>kursi</name>
+		<name>tanaman</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>339</xmin>
-			<xmax>412</xmax>
 			<ymin>139</ymin>
+			<xmax>412</xmax>
 			<ymax>254</ymax>
 		</bndbox>
 	</object>

@@ -1,7 +1,11 @@
 <annotation>
 	<folder>train</folder>
 	<filename>304.jpg</filename>
+<<<<<<< HEAD
 	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\304.jpg</path>
+=======
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\304.jpg</path>
+>>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,19 +16,24 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>lampu</name>
+		<name>kursi</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>45</xmin>
+<<<<<<< HEAD
 			<ymin>255</ymin>
 			<xmax>150</xmax>
+=======
+			<ymin>256</ymin>
+			<xmax>156</xmax>
+>>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 			<ymax>408</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>lampu</name>
+		<name>kursi</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,14 +45,20 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>lampu</name>
+		<name>kursi</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< HEAD
 			<xmin>166</xmin>
 			<ymin>251</ymin>
 			<xmax>259</xmax>
+=======
+			<xmin>159</xmin>
+			<ymin>252</ymin>
+			<xmax>271</xmax>
+>>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 			<ymax>405</ymax>
 		</bndbox>
 	</object>

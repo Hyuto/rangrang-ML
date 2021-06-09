@@ -1,7 +1,11 @@
 <annotation>
 	<folder>train</folder>
 	<filename>355.jpg</filename>
+<<<<<<< HEAD
 	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\355.jpg</path>
+=======
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\355.jpg</path>
+>>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,6 +21,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< HEAD
 			<xmin>26</xmin>
 			<ymin>146</ymin>
 			<xmax>177</xmax>
@@ -25,10 +30,21 @@
 	</object>
 	<object>
 		<name>bantal</name>
+=======
+			<xmin>15</xmin>
+			<ymin>140</ymin>
+			<xmax>190</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mejmeja</name>
+>>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< HEAD
 			<xmin>324</xmin>
 			<ymin>236</ymin>
 			<xmax>395</xmax>
@@ -45,6 +61,12 @@
 			<ymin>251</ymin>
 			<xmax>280</xmax>
 			<ymax>416</ymax>
+=======
+			<xmin>102</xmin>
+			<ymin>247</ymin>
+			<xmax>284</xmax>
+			<ymax>415</ymax>
+>>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +75,17 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< HEAD
 			<xmin>162</xmin>
 			<ymin>154</ymin>
 			<xmax>227</xmax>
 			<ymax>245</ymax>
+=======
+			<xmin>155</xmin>
+			<ymin>154</ymin>
+			<xmax>226</xmax>
+			<ymax>310</ymax>
+>>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 		</bndbox>
 	</object>
 	<object>
@@ -65,6 +94,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< HEAD
 			<xmin>193</xmin>
 			<ymin>5</ymin>
 			<xmax>236</xmax>
@@ -85,14 +115,31 @@
 	</object>
 	<object>
 		<name>bantal</name>
+=======
+			<xmin>68</xmin>
+			<ymin>56</ymin>
+			<xmax>96</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lampu</name>
+>>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
+<<<<<<< HEAD
 			<xmin>70</xmin>
 			<ymin>216</ymin>
 			<xmax>127</xmax>
 			<ymax>253</ymax>
+=======
+			<xmin>195</xmin>
+			<ymin>5</ymin>
+			<xmax>228</xmax>
+			<ymax>151</ymax>
+>>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 		</bndbox>
 	</object>
 </annotation>
