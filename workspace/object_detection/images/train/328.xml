@@ -1,11 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>328.jpg</filename>
-<<<<<<< HEAD
-	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\328.jpg</path>
-=======
 	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\328.jpg</path>
->>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -58,15 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>100</xmin>
-<<<<<<< HEAD
-			<ymin>213</ymin>
-			<xmax>253</xmax>
-			<ymax>320</ymax>
-=======
 			<ymin>212</ymin>
 			<xmax>253</xmax>
 			<ymax>319</ymax>
->>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 		</bndbox>
 	</object>
 	<object>
@@ -79,66 +69,6 @@
 			<ymin>185</ymin>
 			<xmax>292</xmax>
 			<ymax>259</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>288</xmin>
-			<ymin>256</ymin>
-			<xmax>310</xmax>
-			<ymax>294</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>206</xmin>
-			<ymin>249</ymin>
-			<xmax>233</xmax>
-			<ymax>281</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>122</xmin>
-			<ymin>258</ymin>
-			<xmax>148</xmax>
-			<ymax>286</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>40</xmin>
-			<ymin>257</ymin>
-			<xmax>63</xmax>
-			<ymax>291</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tanaman</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>108</xmin>
-			<ymin>168</ymin>
-			<xmax>142</xmax>
-			<ymax>201</ymax>
 		</bndbox>
 	</object>
 </annotation>

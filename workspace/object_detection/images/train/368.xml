@@ -1,9 +1,9 @@
 <annotation>
-	<folder>train</folder>
-	<filename>368.jpg</filename>
-	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\368.jpg</path>
+	<folder></folder>
+	<filename>401_jpg.rf.12b52355aa4a209e4c2a4bddd66049e2.jpg</filename>
+	<path>401_jpg.rf.12b52355aa4a209e4c2a4bddd66049e2.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>roboflow.ai</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -16,95 +16,25 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>90</xmin>
-			<ymin>235</ymin>
 			<xmax>312</xmax>
+			<ymin>235</ymin>
 			<ymax>355</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>kursi</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>2</xmin>
-			<ymin>258</ymin>
 			<xmax>100</xmax>
-			<ymax>416</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>252</xmin>
-			<ymin>232</ymin>
-			<xmax>281</xmax>
-			<ymax>281</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>175</xmin>
-			<ymin>235</ymin>
-			<xmax>206</xmax>
-			<ymax>280</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>146</xmin>
-			<ymin>243</ymin>
-			<xmax>175</xmax>
-			<ymax>282</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>gelas</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>210</xmin>
-			<ymin>319</ymin>
-			<xmax>225</xmax>
-			<ymax>339</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>gelas</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>245</xmin>
-			<ymin>326</ymin>
-			<xmax>258</xmax>
-			<ymax>346</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>275</xmin>
-			<ymin>374</ymin>
-			<xmax>338</xmax>
-			<ymax>416</ymax>
+			<ymin>258</ymin>
+			<ymax>417</ymax>
 		</bndbox>
 	</object>
 </annotation>

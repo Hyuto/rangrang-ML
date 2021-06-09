@@ -1,11 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>365.jpg</filename>
-<<<<<<< HEAD
-	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\365.jpg</path>
-=======
 	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\365.jpg</path>
->>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,15 +41,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-<<<<<<< HEAD
-			<xmin>79</xmin>
-			<ymin>291</ymin>
-			<xmax>130</xmax>
-=======
 			<xmin>82</xmin>
 			<ymin>291</ymin>
 			<xmax>133</xmax>
->>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 			<ymax>402</ymax>
 		</bndbox>
 	</object>
@@ -67,66 +57,6 @@
 			<ymin>315</ymin>
 			<xmax>161</xmax>
 			<ymax>399</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>232</xmin>
-			<ymin>294</ymin>
-			<xmax>250</xmax>
-			<ymax>317</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>258</xmin>
-			<ymin>278</ymin>
-			<xmax>280</xmax>
-			<ymax>313</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>buku</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>176</xmin>
-			<ymin>227</ymin>
-			<xmax>201</xmax>
-			<ymax>253</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>buku</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>166</xmin>
-			<ymin>259</ymin>
-			<xmax>199</xmax>
-			<ymax>287</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>buku</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>168</xmin>
-			<ymin>292</ymin>
-			<xmax>201</xmax>
-			<ymax>316</ymax>
 		</bndbox>
 	</object>
 </annotation>

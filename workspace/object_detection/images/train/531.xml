@@ -1,11 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>531.jpg</filename>
-<<<<<<< HEAD
 	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\531.jpg</path>
-=======
-	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\531.jpg</path>
->>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,20 +14,13 @@
 	<object>
 		<name>sova</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-<<<<<<< HEAD
 			<xmin>98</xmin>
 			<ymin>150</ymin>
 			<xmax>1393</xmax>
 			<ymax>739</ymax>
-=======
-			<xmin>1</xmin>
-			<ymin>29</ymin>
-			<xmax>1500</xmax>
-			<ymax>877</ymax>
->>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 		</bndbox>
 	</object>
 </annotation>

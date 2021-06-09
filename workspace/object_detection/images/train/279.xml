@@ -1,9 +1,9 @@
 <annotation>
-	<folder>train</folder>
-	<filename>279.jpg</filename>
-	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\279.jpg</path>
+	<folder></folder>
+	<filename>279_jpg.rf.00b3bb15ed7727a260053a4eca19c9a1.jpg</filename>
+	<path>279_jpg.rf.00b3bb15ed7727a260053a4eca19c9a1.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>roboflow.ai</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -16,23 +16,12 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>90</xmin>
-			<ymin>6</ymin>
 			<xmax>328</xmax>
+			<ymin>6</ymin>
 			<ymax>221</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>gelas</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>297</xmin>
-			<ymin>258</ymin>
-			<xmax>323</xmax>
-			<ymax>289</ymax>
 		</bndbox>
 	</object>
 </annotation>

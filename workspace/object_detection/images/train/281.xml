@@ -1,9 +1,9 @@
 <annotation>
-	<folder>train</folder>
-	<filename>281.jpg</filename>
-	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\281.jpg</path>
+	<folder></folder>
+	<filename>281_jpg.rf.cbe828c0467382a8502e5159738765d1.jpg</filename>
+	<path>281_jpg.rf.cbe828c0467382a8502e5159738765d1.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>roboflow.ai</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -14,12 +14,13 @@
 	<object>
 		<name>sova</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>310</xmin>
+			<xmax>417</xmax>
 			<ymin>240</ymin>
-			<xmax>416</xmax>
 			<ymax>359</ymax>
 		</bndbox>
 	</object>
@@ -28,71 +29,12 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>8</xmin>
+			<xmax>109</xmax>
 			<ymin>238</ymin>
-			<xmax>107</xmax>
-			<ymax>359</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tv</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>170</xmin>
-			<ymin>202</ymin>
-			<xmax>252</xmax>
-			<ymax>250</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>meja</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>140</xmin>
-			<ymin>287</ymin>
-			<xmax>273</xmax>
-			<ymax>362</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>gelas</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>175</xmin>
-			<ymin>289</ymin>
-			<xmax>191</xmax>
-			<ymax>304</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>338</xmin>
-			<ymin>261</ymin>
-			<xmax>374</xmax>
-			<ymax>292</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>41</xmin>
-			<ymin>276</ymin>
-			<xmax>75</xmax>
-			<ymax>302</ymax>
+			<ymax>367</ymax>
 		</bndbox>
 	</object>
 </annotation>

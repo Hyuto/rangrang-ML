@@ -1,9 +1,9 @@
 <annotation>
-	<folder>train</folder>
-	<filename>280.jpg</filename>
-	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\280.jpg</path>
+	<folder></folder>
+	<filename>280_jpg.rf.17c7ac0f94a5cd6ab51fe68af0ca2605.jpg</filename>
+	<path>280_jpg.rf.17c7ac0f94a5cd6ab51fe68af0ca2605.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>roboflow.ai</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -16,83 +16,12 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
+		<occluded>0</occluded>
 		<bndbox>
 			<xmin>103</xmin>
-			<ymin>168</ymin>
 			<xmax>375</xmax>
-			<ymax>298</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>117</xmin>
-			<ymin>164</ymin>
-			<xmax>174</xmax>
-			<ymax>230</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>170</xmin>
-			<ymin>179</ymin>
-			<xmax>218</xmax>
-			<ymax>232</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tanaman</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>208</xmin>
-			<ymin>193</ymin>
-			<xmax>294</xmax>
-			<ymax>244</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>lampu</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>328</xmin>
-			<ymin>87</ymin>
-			<xmax>387</xmax>
-			<ymax>143</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bantal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>301</xmin>
 			<ymin>168</ymin>
-			<xmax>350</xmax>
-			<ymax>234</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>buku</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>279</xmin>
-			<ymin>235</ymin>
-			<xmax>333</xmax>
-			<ymax>261</ymax>
+			<ymax>298</ymax>
 		</bndbox>
 	</object>
 </annotation>

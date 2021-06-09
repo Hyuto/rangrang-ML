@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>305.jpg</filename>
-	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\305.jpg</path>
+	<filename>341.jpg</filename>
+	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\341.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>meja</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>61</xmin>
-			<ymin>303</ymin>
-			<xmax>226</xmax>
-			<ymax>393</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>sova</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>31</xmin>
-			<ymin>226</ymin>
-			<xmax>366</xmax>
-			<ymax>392</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>sova</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>12</xmin>
-			<ymin>23</ymin>
-			<xmax>398</xmax>
-			<ymax>180</ymax>
+			<xmin>46</xmin>
+			<ymin>222</ymin>
+			<xmax>135</xmax>
+			<ymax>365</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +29,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>161</xmin>
-			<ymin>77</ymin>
-			<xmax>333</xmax>
-			<ymax>200</ymax>
+			<xmin>189</xmin>
+			<ymin>296</ymin>
+			<xmax>261</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kursi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>227</ymin>
+			<xmax>410</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sova</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>221</ymin>
+			<xmax>290</xmax>
+			<ymax>338</ymax>
 		</bndbox>
 	</object>
 </annotation>

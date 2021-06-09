@@ -1,11 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>549.jpg</filename>
-<<<<<<< HEAD
 	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\549.jpg</path>
-=======
-	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\549.jpg</path>
->>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,7 +17,6 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-<<<<<<< HEAD
 			<xmin>105</xmin>
 			<ymin>478</ymin>
 			<xmax>1441</xmax>
@@ -146,12 +141,6 @@
 			<ymin>225</ymin>
 			<xmax>890</xmax>
 			<ymax>286</ymax>
-=======
-			<xmin>123</xmin>
-			<ymin>468</ymin>
-			<xmax>1448</xmax>
-			<ymax>927</ymax>
->>>>>>> d04696d1c3d0ffe7a8fb568c9014c831c44a3842
 		</bndbox>
 	</object>
 </annotation>

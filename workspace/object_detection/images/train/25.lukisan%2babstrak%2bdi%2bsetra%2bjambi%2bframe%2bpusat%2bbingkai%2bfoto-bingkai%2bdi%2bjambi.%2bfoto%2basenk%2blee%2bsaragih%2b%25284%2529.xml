@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>lukisan frame</folder>
 	<filename>25.lukisan%2babstrak%2bdi%2bsetra%2bjambi%2bframe%2bpusat%2bbingkai%2bfoto-bingkai%2bdi%2bjambi.%2bfoto%2basenk%2blee%2bsaragih%2b%25284%2529.jpg</filename>
-	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\25.lukisan%2babstrak%2bdi%2bsetra%2bjambi%2bframe%2bpusat%2bbingkai%2bfoto-bingkai%2bdi%2bjambi.%2bfoto%2basenk%2blee%2bsaragih%2b%25284%2529.jpg</path>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\lukisan frame\25.lukisan%2babstrak%2bdi%2bsetra%2bjambi%2bframe%2bpusat%2bbingkai%2bfoto-bingkai%2bdi%2bjambi.%2bfoto%2basenk%2blee%2bsaragih%2b%25284%2529.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>220</xmin>
-			<ymin>27</ymin>
-			<xmax>1418</xmax>
-			<ymax>963</ymax>
+			<xmin>223</xmin>
+			<ymin>122</ymin>
+			<xmax>1421</xmax>
+			<ymax>1058</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,26 +1,26 @@
 <annotation>
 	<folder>train</folder>
-	<filename>282.jpg</filename>
-	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\282.jpg</path>
+	<filename>537.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\537.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>416</width>
-		<height>416</height>
+		<width>2000</width>
+		<height>2000</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>meja</name>
+		<name>sova</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>150</xmin>
-			<ymin>248</ymin>
-			<xmax>288</xmax>
-			<ymax>379</ymax>
+			<xmin>189</xmin>
+			<ymin>642</ymin>
+			<xmax>1803</xmax>
+			<ymax>1236</ymax>
 		</bndbox>
 	</object>
 </annotation>

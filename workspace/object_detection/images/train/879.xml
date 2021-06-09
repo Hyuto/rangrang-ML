@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>jam dinding</folder>
 	<filename>879.jpg</filename>
-	<path>C:\Users\dwiki kusuma\Documents\GitHub\rangrang-ML\workspace\object_detection\images\train\879.jpg</path>
+	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\jam dinding\879.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,8 +18,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>182</xmin>
-			<ymin>45</ymin>
-			<xmax>737</xmax>
+			<ymin>71</ymin>
+			<xmax>711</xmax>
 			<ymax>497</ymax>
 		</bndbox>
 	</object>
