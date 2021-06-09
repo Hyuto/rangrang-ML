@@ -1,13 +1,13 @@
 <annotation>
-	<folder>lamp</folder>
-	<filename>21.moooi_moooi-horse-lamp-stehleuchte_2000x2000-id2020666-680f7a697321e5ba1de3a0fd46eda6d9.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\lamp\21.moooi_moooi-horse-lamp-stehleuchte_2000x2000-id2020666-680f7a697321e5ba1de3a0fd46eda6d9.jpg</path>
+	<folder>train</folder>
+	<filename>579.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\579.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2000</width>
-		<height>2000</height>
+		<width>1100</width>
+		<height>1210</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1064</xmin>
-			<ymin>33</ymin>
-			<xmax>1603</xmax>
-			<ymax>524</ymax>
+			<xmin>316</xmin>
+			<ymin>161</ymin>
+			<xmax>838</xmax>
+			<ymax>1058</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>buku</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>731</ymin>
+			<xmax>272</xmax>
+			<ymax>942</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,13 +1,13 @@
 <annotation>
-	<folder>couch</folder>
-	<filename>30.9960d153e1035aa595224fa14fa501b3.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\couch\30.9960d153e1035aa595224fa14fa501b3.jpg</path>
+	<folder>train</folder>
+	<filename>546.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\546.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3508</width>
-		<height>2201</height>
+		<width>3888</width>
+		<height>2592</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,70 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>255</xmin>
-			<ymin>802</ymin>
-			<xmax>2952</xmax>
-			<ymax>1844</ymax>
+			<xmin>1319</xmin>
+			<ymin>1194</ymin>
+			<xmax>3202</xmax>
+			<ymax>1898</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lampu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3282</xmin>
+			<ymin>1109</ymin>
+			<xmax>3649</xmax>
+			<ymax>1734</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lampu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1291</xmin>
+			<ymin>1031</ymin>
+			<xmax>1549</xmax>
+			<ymax>1426</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tanaman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>935</xmin>
+			<ymin>417</ymin>
+			<xmax>1343</xmax>
+			<ymax>1387</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>meja</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>674</xmin>
+			<ymin>1731</ymin>
+			<xmax>2321</xmax>
+			<ymax>2587</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sova</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>1256</ymin>
+			<xmax>960</xmax>
+			<ymax>1859</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>potted plant</folder>
-	<filename>22.full-length-of-man-kneeling-while-watering-potted-plant-at-home-masf13240.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\potted plant\22.full-length-of-man-kneeling-while-watering-potted-plant-at-home-masf13240.jpg</path>
+	<folder>train</folder>
+	<filename>728.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\728.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,30 @@
 			<ymin>10</ymin>
 			<xmax>282</xmax>
 			<ymax>753</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tanaman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>924</xmin>
+			<ymin>9</ymin>
+			<xmax>1105</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tanaman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>738</xmin>
+			<ymin>13</ymin>
+			<xmax>909</xmax>
+			<ymax>305</ymax>
 		</bndbox>
 	</object>
 </annotation>

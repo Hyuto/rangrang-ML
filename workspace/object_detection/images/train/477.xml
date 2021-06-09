@@ -1,7 +1,7 @@
 <annotation>
-	<folder>chair</folder>
-	<filename>10._200513120143_tulangbawang%20lounge%20chair%20%286%29__zoom.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\chair\10._200513120143_tulangbawang%20lounge%20chair%20%286%29__zoom.jpg</path>
+	<folder>train</folder>
+	<filename>477.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\477.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,8 +18,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>199</xmin>
-			<ymin>181</ymin>
-			<xmax>817</xmax>
+			<ymin>192</ymin>
+			<xmax>813</xmax>
 			<ymax>878</ymax>
 		</bndbox>
 	</object>

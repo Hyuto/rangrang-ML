@@ -1,13 +1,13 @@
 <annotation>
-	<folder>couch</folder>
-	<filename>11.depositphotos_441879030-stock-illustration-couch-or-sofa-as-piece.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\couch\11.depositphotos_441879030-stock-illustration-couch-or-sofa-as-piece.jpg</path>
+	<folder>train</folder>
+	<filename>528.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\528.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1600</width>
-		<height>1060</height>
+		<width>2560</width>
+		<height>2560</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>328</xmin>
-			<ymin>63</ymin>
-			<xmax>1298</xmax>
-			<ymax>480</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>sova</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>353</xmin>
-			<ymin>481</ymin>
-			<xmax>1234</xmax>
-			<ymax>900</ymax>
+			<xmin>111</xmin>
+			<ymin>1065</ymin>
+			<xmax>2456</xmax>
+			<ymax>1937</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
-	<filename>297_jpg.rf.c4b509baf5fb0905abad8e40a2b7d5f5.jpg</filename>
-	<path>297_jpg.rf.c4b509baf5fb0905abad8e40a2b7d5f5.jpg</path>
+	<folder>train</folder>
+	<filename>297.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\297.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -16,11 +16,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>143</xmin>
-			<xmax>286</xmax>
 			<ymin>176</ymin>
+			<xmax>286</xmax>
 			<ymax>278</ymax>
 		</bndbox>
 	</object>
@@ -29,11 +28,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>12</xmin>
-			<xmax>141</xmax>
 			<ymin>191</ymin>
+			<xmax>141</xmax>
 			<ymax>342</ymax>
 		</bndbox>
 	</object>
@@ -42,11 +40,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>297</xmin>
+			<xmin>305</xmin>
+			<ymin>161</ymin>
 			<xmax>408</xmax>
-			<ymin>165</ymin>
 			<ymax>346</ymax>
 		</bndbox>
 	</object>
@@ -55,12 +52,47 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>145</xmin>
-			<xmax>281</xmax>
 			<ymin>275</ymin>
+			<xmax>281</xmax>
 			<ymax>397</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bantal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>181</ymin>
+			<xmax>196</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bantal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>180</ymin>
+			<xmax>253</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bantal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>180</ymin>
+			<xmax>271</xmax>
+			<ymax>223</ymax>
 		</bndbox>
 	</object>
 </annotation>

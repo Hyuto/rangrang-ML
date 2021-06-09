@@ -1,7 +1,7 @@
 <annotation>
-	<folder>book</folder>
-	<filename>29.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\book\29.jpg</path>
+	<folder>train</folder>
+	<filename>447.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\447.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,49 +14,13 @@
 	<object>
 		<name>buku</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>564</xmin>
-			<ymin>270</ymin>
-			<xmax>1297</xmax>
-			<ymax>1406</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>buku</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>542</xmin>
-			<ymin>292</ymin>
-			<xmax>771</xmax>
-			<ymax>1397</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>buku</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1326</xmin>
-			<ymin>305</ymin>
-			<xmax>1920</xmax>
-			<ymax>1401</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>buku</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>66</xmin>
-			<ymin>363</ymin>
-			<xmax>584</xmax>
-			<ymax>1456</ymax>
+			<xmin>26</xmin>
+			<ymin>315</ymin>
+			<xmax>2560</xmax>
+			<ymax>1439</ymax>
 		</bndbox>
 	</object>
 </annotation>

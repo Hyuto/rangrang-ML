@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
-	<filename>296_jpg.rf.9dfd5501accd5b66b3333b062125dcd3.jpg</filename>
-	<path>296_jpg.rf.9dfd5501accd5b66b3333b062125dcd3.jpg</path>
+	<folder>train</folder>
+	<filename>296.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\296.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -16,25 +16,71 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>85</xmin>
-			<xmax>185</xmax>
 			<ymin>231</ymin>
+			<xmax>185</xmax>
 			<ymax>365</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>sova</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>313</xmin>
-			<xmax>417</xmax>
 			<ymin>198</ymin>
+			<xmax>416</xmax>
 			<ymax>353</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>meja</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>237</ymin>
+			<xmax>303</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gelas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>253</ymin>
+			<xmax>264</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gelas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>237</ymin>
+			<xmax>263</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gelas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>240</ymin>
+			<xmax>291</xmax>
+			<ymax>248</ymax>
 		</bndbox>
 	</object>
 </annotation>

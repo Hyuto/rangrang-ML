@@ -1,26 +1,26 @@
 <annotation>
-	<folder>lamp</folder>
-	<filename>16.0609332_pe684455_s5.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\lamp\16.0609332_pe684455_s5.jpg</path>
+	<folder>train</folder>
+	<filename>574.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\574.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2000</width>
-		<height>2000</height>
+		<width>1800</width>
+		<height>1800</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>lampu</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>501</xmin>
-			<ymin>11</ymin>
-			<xmax>1332</xmax>
-			<ymax>2000</ymax>
+			<xmin>632</xmin>
+			<ymin>263</ymin>
+			<xmax>1156</xmax>
+			<ymax>1757</ymax>
 		</bndbox>
 	</object>
 </annotation>

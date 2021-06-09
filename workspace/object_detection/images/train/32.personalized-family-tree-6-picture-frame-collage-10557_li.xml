@@ -1,7 +1,7 @@
 <annotation>
-	<folder>family picture with frame</folder>
+	<folder>train</folder>
 	<filename>32.personalized-family-tree-6-picture-frame-collage-10557_li.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\32.personalized-family-tree-6-picture-frame-collage-10557_li.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\32.personalized-family-tree-6-picture-frame-collage-10557_li.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>166</xmin>
-			<ymin>105</ymin>
-			<xmax>990</xmax>
-			<ymax>800</ymax>
+			<xmin>65</xmin>
+			<ymin>30</ymin>
+			<xmax>950</xmax>
+			<ymax>950</ymax>
 		</bndbox>
 	</object>
 </annotation>

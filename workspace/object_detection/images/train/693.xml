@@ -1,7 +1,7 @@
 <annotation>
-	<folder>pillow</folder>
+	<folder>train</folder>
 	<filename>693.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\pillow\693.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\693.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,21 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>298</ymin>
-			<xmax>221</xmax>
-			<ymax>864</ymax>
+			<ymin>386</ymin>
+			<xmax>175</xmax>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lampu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>177</ymin>
+			<xmax>580</xmax>
+			<ymax>520</ymax>
 		</bndbox>
 	</object>
 </annotation>

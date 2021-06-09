@@ -1,7 +1,7 @@
 <annotation>
-	<folder>lukisan frame</folder>
+	<folder>train</folder>
 	<filename>27.kayu-gantung-gulungan-lukisan-inti-magnetik-gantung-klip-solid-frame-gantungan-untuk-poster-foto-gambar-sederhana.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\lukisan frame\27.kayu-gantung-gulungan-lukisan-inti-magnetik-gantung-klip-solid-frame-gantungan-untuk-poster-foto-gambar-sederhana.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\27.kayu-gantung-gulungan-lukisan-inti-magnetik-gantung-klip-solid-frame-gantungan-untuk-poster-foto-gambar-sederhana.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>27</xmin>
-			<ymin>114</ymin>
-			<xmax>749</xmax>
-			<ymax>912</ymax>
+			<ymin>86</ymin>
+			<xmax>734</xmax>
+			<ymax>938</ymax>
 		</bndbox>
 	</object>
 </annotation>

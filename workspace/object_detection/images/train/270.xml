@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
-	<filename>270_jpg.rf.f7121227146c05bc45c791243c85f5c3.jpg</filename>
-	<path>270_jpg.rf.f7121227146c05bc45c791243c85f5c3.jpg</path>
+	<folder>train</folder>
+	<filename>270.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\270.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -16,24 +16,22 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>263</xmin>
-			<xmax>358</xmax>
 			<ymin>237</ymin>
+			<xmax>358</xmax>
 			<ymax>369</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>sova</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>357</xmin>
-			<xmax>417</xmax>
 			<ymin>248</ymin>
+			<xmax>416</xmax>
 			<ymax>369</ymax>
 		</bndbox>
 	</object>
@@ -42,12 +40,59 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>58</xmin>
-			<xmax>242</xmax>
 			<ymin>255</ymin>
+			<xmax>242</xmax>
 			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bantal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>240</ymin>
+			<xmax>324</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bantal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>259</ymin>
+			<xmax>187</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bantal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>247</ymin>
+			<xmax>416</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>buku</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>360</ymin>
+			<xmax>353</xmax>
+			<ymax>393</ymax>
 		</bndbox>
 	</object>
 </annotation>

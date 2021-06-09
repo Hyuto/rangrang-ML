@@ -1,7 +1,7 @@
 <annotation>
-	<folder>table</folder>
+	<folder>train</folder>
 	<filename>805.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\table\805.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\805.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>283</ymin>
+			<ymin>325</ymin>
 			<xmax>1280</xmax>
-			<ymax>1218</ymax>
+			<ymax>1070</ymax>
 		</bndbox>
 	</object>
 </annotation>

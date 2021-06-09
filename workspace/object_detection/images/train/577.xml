@@ -1,7 +1,7 @@
 <annotation>
-	<folder>lamp</folder>
-	<filename>583.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\lamp\583.jpg</path>
+	<folder>train</folder>
+	<filename>577.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\577.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
-			<ymin>159</ymin>
-			<xmax>1356</xmax>
-			<ymax>1883</ymax>
+			<xmin>281</xmin>
+			<ymin>229</ymin>
+			<xmax>1315</xmax>
+			<ymax>1818</ymax>
 		</bndbox>
 	</object>
 </annotation>

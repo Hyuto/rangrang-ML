@@ -1,7 +1,7 @@
 <annotation>
-	<folder>family picture with frame</folder>
+	<folder>train</folder>
 	<filename>49.est-family-frame-1.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\49.est-family-frame-1.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\49.est-family-frame-1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>211</xmin>
-			<ymin>357</ymin>
-			<xmax>1795</xmax>
-			<ymax>1887</ymax>
+			<xmin>395</xmin>
+			<ymin>499</ymin>
+			<xmax>1736</xmax>
+			<ymax>1666</ymax>
 		</bndbox>
 	</object>
 </annotation>

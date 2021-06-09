@@ -1,7 +1,7 @@
 <annotation>
-	<folder>pillow</folder>
-	<filename>14.81waptsmm7l._ac_sl1500_.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\pillow\14.81waptsmm7l._ac_sl1500_.jpg</path>
+	<folder>train</folder>
+	<filename>671.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\671.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,25 @@
 	<object>
 		<name>bantal</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>314</xmin>
-			<ymin>111</ymin>
-			<xmax>1494</xmax>
-			<ymax>1026</ymax>
+			<xmin>318</xmin>
+			<ymin>84</ymin>
+			<xmax>1498</xmax>
+			<ymax>999</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bantal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>106</ymin>
+			<xmax>495</xmax>
+			<ymax>929</ymax>
 		</bndbox>
 	</object>
 </annotation>

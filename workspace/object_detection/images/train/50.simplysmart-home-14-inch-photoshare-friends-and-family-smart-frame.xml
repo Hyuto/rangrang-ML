@@ -1,7 +1,7 @@
 <annotation>
-	<folder>family picture with frame</folder>
+	<folder>train</folder>
 	<filename>50.simplysmart-home-14-inch-photoshare-friends-and-family-smart-frame.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\50.simplysmart-home-14-inch-photoshare-friends-and-family-smart-frame.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\50.simplysmart-home-14-inch-photoshare-friends-and-family-smart-frame.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>foto</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>302</xmin>
-			<ymin>234</ymin>
-			<xmax>1482</xmax>
-			<ymax>1391</ymax>
+			<xmin>326</xmin>
+			<ymin>299</ymin>
+			<xmax>1500</xmax>
+			<ymax>1278</ymax>
 		</bndbox>
 	</object>
 </annotation>

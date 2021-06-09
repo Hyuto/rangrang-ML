@@ -1,13 +1,13 @@
 <annotation>
-	<folder>couch</folder>
-	<filename>37.reverse+camelback+black+leather+3x2.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\couch\37.reverse+camelback+black+leather+3x2.jpg</path>
+	<folder>train</folder>
+	<filename>552.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\552.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2500</width>
-		<height>1667</height>
+		<width>1200</width>
+		<height>1200</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>88</xmin>
-			<ymin>569</ymin>
-			<xmax>2398</xmax>
-			<ymax>1385</ymax>
+			<xmin>78</xmin>
+			<ymin>433</ymin>
+			<xmax>1066</xmax>
+			<ymax>1026</ymax>
 		</bndbox>
 	</object>
 </annotation>

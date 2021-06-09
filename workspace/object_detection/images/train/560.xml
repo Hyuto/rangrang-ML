@@ -1,13 +1,13 @@
 <annotation>
-	<folder>couch</folder>
-	<filename>46.sarung_sofa_pelindung_sofa_cover_sofa_couch_coat_single_-_bisa_di_pakai_2_sisi_3b3781e6a3.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\couch\46.sarung_sofa_pelindung_sofa_cover_sofa_couch_coat_single_-_bisa_di_pakai_2_sisi_3b3781e6a3.jpg</path>
+	<folder>train</folder>
+	<filename>560.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\560.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1000</width>
-		<height>1000</height>
+		<width>2560</width>
+		<height>2560</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
-			<ymin>77</ymin>
-			<xmax>988</xmax>
-			<ymax>958</ymax>
+			<xmin>176</xmin>
+			<ymin>954</ymin>
+			<xmax>2380</xmax>
+			<ymax>1924</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>family picture with frame</folder>
+	<folder>train</folder>
 	<filename>3.117980175-happy-family-holding-white-frame-and-looking-at-camera-in-living-room.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\3.117980175-happy-family-holding-white-frame-and-looking-at-camera-in-living-room.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\3.117980175-happy-family-holding-white-frame-and-looking-at-camera-in-living-room.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>foto</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>147</xmin>
-			<ymin>114</ymin>
-			<xmax>1194</xmax>
-			<ymax>867</ymax>
+			<xmin>220</xmin>
+			<ymin>119</ymin>
+			<xmax>1070</xmax>
+			<ymax>816</ymax>
 		</bndbox>
 	</object>
 </annotation>

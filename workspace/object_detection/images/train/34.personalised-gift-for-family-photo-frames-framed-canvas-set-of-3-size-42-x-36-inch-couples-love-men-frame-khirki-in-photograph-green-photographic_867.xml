@@ -1,7 +1,7 @@
 <annotation>
-	<folder>family picture with frame</folder>
+	<folder>train</folder>
 	<filename>34.personalised-gift-for-family-photo-frames-framed-canvas-set-of-3-size-42-x-36-inch-couples-love-men-frame-khirki-in-photograph-green-photographic_867.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\34.personalised-gift-for-family-photo-frames-framed-canvas-set-of-3-size-42-x-36-inch-couples-love-men-frame-khirki-in-photograph-green-photographic_867.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\34.personalised-gift-for-family-photo-frames-framed-canvas-set-of-3-size-42-x-36-inch-couples-love-men-frame-khirki-in-photograph-green-photographic_867.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>55</xmin>
-			<ymin>114</ymin>
-			<xmax>889</xmax>
-			<ymax>733</ymax>
+			<xmin>85</xmin>
+			<ymin>141</ymin>
+			<xmax>578</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>foto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>408</ymin>
+			<xmax>577</xmax>
+			<ymax>668</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>foto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>585</xmin>
+			<ymin>143</ymin>
+			<xmax>860</xmax>
+			<ymax>546</ymax>
 		</bndbox>
 	</object>
 </annotation>

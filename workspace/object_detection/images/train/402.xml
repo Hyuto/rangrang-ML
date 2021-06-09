@@ -1,7 +1,7 @@
 <annotation>
-	<folder>poy</folder>
-	<filename>318.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\poy\318.jpg</path>
+	<folder>train</folder>
+	<filename>402.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\402.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -69,6 +69,18 @@
 			<ymin>138</ymin>
 			<xmax>257</xmax>
 			<ymax>336</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>meja</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>590</ymin>
+			<xmax>1131</xmax>
+			<ymax>720</ymax>
 		</bndbox>
 	</object>
 </annotation>

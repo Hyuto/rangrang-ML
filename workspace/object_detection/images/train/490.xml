@@ -1,13 +1,13 @@
 <annotation>
-	<folder>chair</folder>
-	<filename>23.cocktail_chair_bearder_leopard_front.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\chair\23.cocktail_chair_bearder_leopard_front.jpg</path>
+	<folder>train</folder>
+	<filename>490.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\490.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2400</width>
-		<height>1200</height>
+		<width>1400</width>
+		<height>1400</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>821</xmin>
-			<ymin>397</ymin>
-			<xmax>1543</xmax>
-			<ymax>1156</ymax>
+			<xmin>251</xmin>
+			<ymin>24</ymin>
+			<xmax>1153</xmax>
+			<ymax>1393</ymax>
 		</bndbox>
 	</object>
 </annotation>

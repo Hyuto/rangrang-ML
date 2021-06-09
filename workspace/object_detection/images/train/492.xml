@@ -1,13 +1,13 @@
 <annotation>
-	<folder>chair</folder>
-	<filename>26.urb-111-ye_co2-scaled.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\chair\26.urb-111-ye_co2-scaled.jpg</path>
+	<folder>train</folder>
+	<filename>492.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\492.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2113</width>
-		<height>2560</height>
+		<width>2000</width>
+		<height>2000</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>291</xmin>
-			<ymin>11</ymin>
-			<xmax>1844</xmax>
-			<ymax>2539</ymax>
+			<xmin>379</xmin>
+			<ymin>38</ymin>
+			<xmax>1613</xmax>
+			<ymax>1957</ymax>
 		</bndbox>
 	</object>
 </annotation>

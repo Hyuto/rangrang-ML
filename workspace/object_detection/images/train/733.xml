@@ -1,7 +1,7 @@
 <annotation>
-	<folder>potted plant</folder>
-	<filename>27.care-tips-to-keep-your-indoor-potted-plant-healthy-and-alive.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\potted plant\27.care-tips-to-keep-your-indoor-potted-plant-healthy-and-alive.jpg</path>
+	<folder>train</folder>
+	<filename>733.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\733.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>153</ymin>
 			<xmax>908</xmax>
 			<ymax>747</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tanaman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>861</xmin>
+			<ymin>129</ymin>
+			<xmax>1135</xmax>
+			<ymax>478</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>potted plant</folder>
-	<filename>28.kalanchoe-potted-plant-green-p33679-39230_zoom.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\potted plant\28.kalanchoe-potted-plant-green-p33679-39230_zoom.jpg</path>
+	<folder>train</folder>
+	<filename>734.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\734.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,8 +17,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>47</xmin>
-			<ymin>316</ymin>
+			<xmin>99</xmin>
+			<ymin>318</ymin>
 			<xmax>1862</xmax>
 			<ymax>1848</ymax>
 		</bndbox>

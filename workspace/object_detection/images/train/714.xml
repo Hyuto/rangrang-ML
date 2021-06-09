@@ -1,7 +1,7 @@
 <annotation>
-	<folder>potted plant</folder>
-	<filename>1.0614211_pe686835_s5.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\potted plant\1.0614211_pe686835_s5.jpg</path>
+	<folder>train</folder>
+	<filename>714.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\714.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>294</xmin>
-			<ymin>27</ymin>
-			<xmax>1590</xmax>
+			<xmin>418</xmin>
+			<ymin>32</ymin>
+			<xmax>1571</xmax>
 			<ymax>1999</ymax>
 		</bndbox>
 	</object>

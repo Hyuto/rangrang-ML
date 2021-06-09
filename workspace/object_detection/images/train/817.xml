@@ -1,7 +1,7 @@
 <annotation>
-	<folder>tv</folder>
+	<folder>train</folder>
 	<filename>817.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\tv\817.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\817.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>528</ymin>
 			<xmax>1413</xmax>
 			<ymax>1068</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sova</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1215</ymin>
+			<xmax>2000</xmax>
+			<ymax>1743</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,13 +1,13 @@
 <annotation>
-	<folder>chair</folder>
-	<filename>34.y4ndflcfc3nmfdxfn24qehzuntcwh0cdbvjemh9w.jpeg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\chair\34.y4ndflcfc3nmfdxfn24qehzuntcwh0cdbvjemh9w.jpeg</path>
+	<folder>train</folder>
+	<filename>501.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\501.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1366</width>
-		<height>650</height>
+		<width>1365</width>
+		<height>2048</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>49</xmin>
-			<ymin>22</ymin>
-			<xmax>510</xmax>
-			<ymax>532</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>kursi</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>746</xmin>
-			<ymin>103</ymin>
-			<xmax>1302</xmax>
-			<ymax>650</ymax>
+			<xmin>259</xmin>
+			<ymin>390</ymin>
+			<xmax>1101</xmax>
+			<ymax>1599</ymax>
 		</bndbox>
 	</object>
 </annotation>

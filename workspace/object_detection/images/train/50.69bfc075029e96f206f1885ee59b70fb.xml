@@ -1,7 +1,7 @@
 <annotation>
-	<folder>lukisan frame</folder>
+	<folder>train</folder>
 	<filename>50.69bfc075029e96f206f1885ee59b70fb.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\lukisan frame\50.69bfc075029e96f206f1885ee59b70fb.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\50.69bfc075029e96f206f1885ee59b70fb.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>65</xmin>
-			<ymin>88</ymin>
-			<xmax>1010</xmax>
-			<ymax>999</ymax>
+			<xmin>78</xmin>
+			<ymin>98</ymin>
+			<xmax>947</xmax>
+			<ymax>967</ymax>
 		</bndbox>
 	</object>
 </annotation>

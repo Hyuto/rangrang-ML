@@ -1,13 +1,13 @@
 <annotation>
-	<folder>mug</folder>
-	<filename>14.92526cd6e3db62253daedf42bc3ff46a.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\mug\14.92526cd6e3db62253daedf42bc3ff46a.jpg</path>
+	<folder>train</folder>
+	<filename>620.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\620.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>996</width>
-		<height>996</height>
+		<width>500</width>
+		<height>500</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>30</xmin>
-			<ymin>338</ymin>
-			<xmax>490</xmax>
-			<ymax>870</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>gelas</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>463</xmin>
-			<ymin>143</ymin>
-			<xmax>987</xmax>
-			<ymax>701</ymax>
+			<xmin>87</xmin>
+			<ymin>189</ymin>
+			<xmax>364</xmax>
+			<ymax>446</ymax>
 		</bndbox>
 	</object>
 </annotation>

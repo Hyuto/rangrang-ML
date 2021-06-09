@@ -1,7 +1,7 @@
 <annotation>
-	<folder>family picture with frame</folder>
+	<folder>train</folder>
 	<filename>33.love-makes-a-family-white-picture-frame_346946_01.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\33.love-makes-a-family-white-picture-frame_346946_01.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\33.love-makes-a-family-white-picture-frame_346946_01.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
-			<ymin>149</ymin>
-			<xmax>1461</xmax>
-			<ymax>1362</ymax>
+			<xmin>15</xmin>
+			<ymin>169</ymin>
+			<xmax>1456</xmax>
+			<ymax>1294</ymax>
 		</bndbox>
 	</object>
 </annotation>

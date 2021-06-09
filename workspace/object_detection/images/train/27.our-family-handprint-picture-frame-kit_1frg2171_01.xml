@@ -1,7 +1,7 @@
 <annotation>
-	<folder>family picture with frame</folder>
+	<folder>train</folder>
 	<filename>27.our-family-handprint-picture-frame-kit_1frg2171_01.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\27.our-family-handprint-picture-frame-kit_1frg2171_01.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\27.our-family-handprint-picture-frame-kit_1frg2171_01.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>31</xmin>
-			<ymin>394</ymin>
-			<xmax>1879</xmax>
-			<ymax>1627</ymax>
+			<xmin>88</xmin>
+			<ymin>366</ymin>
+			<xmax>1836</xmax>
+			<ymax>1436</ymax>
 		</bndbox>
 	</object>
 </annotation>

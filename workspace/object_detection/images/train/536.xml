@@ -1,26 +1,26 @@
 <annotation>
-	<folder>couch</folder>
-	<filename>19.lin_8720-2-scaled.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\couch\19.lin_8720-2-scaled.jpg</path>
+	<folder>train</folder>
+	<filename>536.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\536.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2560</width>
-		<height>2560</height>
+		<width>500</width>
+		<height>500</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>sova</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>78</xmin>
-			<ymin>1039</ymin>
-			<xmax>2461</xmax>
-			<ymax>1959</ymax>
+			<xmin>7</xmin>
+			<ymin>133</ymin>
+			<xmax>500</xmax>
+			<ymax>414</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,26 +1,38 @@
 <annotation>
-	<folder>table</folder>
-	<filename>808.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\table\808.jpg</path>
+	<folder>train</folder>
+	<filename>807.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\807.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>5760</width>
-		<height>3469</height>
+		<width>1200</width>
+		<height>1200</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>meja</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>35</xmin>
-			<ymin>47</ymin>
-			<xmax>5756</xmax>
-			<ymax>3469</ymax>
+			<xmin>64</xmin>
+			<ymin>256</ymin>
+			<xmax>1137</xmax>
+			<ymax>1092</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>buku</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>238</ymin>
+			<xmax>757</xmax>
+			<ymax>332</ymax>
 		</bndbox>
 	</object>
 </annotation>

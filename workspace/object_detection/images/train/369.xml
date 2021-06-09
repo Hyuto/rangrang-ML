@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
-	<filename>402_jpg.rf.7937c2dc1e4836b26d202d463ff73135.jpg</filename>
-	<path>402_jpg.rf.7937c2dc1e4836b26d202d463ff73135.jpg</path>
+	<folder>train</folder>
+	<filename>369.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\369.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>416</width>
@@ -16,11 +16,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>103</xmin>
-			<xmax>313</xmax>
 			<ymin>257</ymin>
+			<xmax>313</xmax>
 			<ymax>389</ymax>
 		</bndbox>
 	</object>
@@ -29,12 +28,35 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>248</xmin>
-			<xmax>309</xmax>
 			<ymin>294</ymin>
+			<xmax>309</xmax>
 			<ymax>350</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bantal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>264</ymin>
+			<xmax>259</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bantal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>263</ymin>
+			<xmax>216</xmax>
+			<ymax>284</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -10,12 +10,21 @@ Parameters:
     -c : Count each label of all the xml files
     -s : Find images with specific label
     -lm : Create label_map.pbtxt
+    -ar : Remove xml piles without images
 
 RangRang - Machine Learning - 2021
 """
 
 import os, argparse, glob
 import xml.etree.ElementTree as ET
+
+def auto_remove(path):
+    """ Menghapus file xml tanpa gambar """
+    images = [os.path.splitext(x) for x in os.listdir(path)]
+    images = [x for x, y in images]
+    for x in set(images):
+        if images.count(x) < 2:
+            os.remove(os.path.join(path, x + '.xml'))
 
 def make_labelmap(path, export_dir):
     """ Membuat label_map.pbtxt """
@@ -95,6 +104,10 @@ if __name__ == '__main__':
                         "--label_map",
                         help="Create label_map.pbtxt",
                         type=str)
+    parser.add_argument("-ar",
+                        "--auto_remove",
+                        help="Delete xlm files without img",
+                        action='store_true')
 
     args = parser.parse_args()
 
@@ -112,3 +125,6 @@ if __name__ == '__main__':
 
     if args.label_map:
         make_labelmap(args.img_dir, args.label_map)
+
+    if args.auto_remove:
+        auto_remove(args.img_dir)

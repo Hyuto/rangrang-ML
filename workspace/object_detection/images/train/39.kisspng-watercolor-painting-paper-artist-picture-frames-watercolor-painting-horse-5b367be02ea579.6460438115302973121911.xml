@@ -1,7 +1,7 @@
 <annotation>
-	<folder>lukisan frame</folder>
+	<folder>train</folder>
 	<filename>39.kisspng-watercolor-painting-paper-artist-picture-frames-watercolor-painting-horse-5b367be02ea579.6460438115302973121911.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\lukisan frame\39.kisspng-watercolor-painting-paper-artist-picture-frames-watercolor-painting-horse-5b367be02ea579.6460438115302973121911.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\39.kisspng-watercolor-painting-paper-artist-picture-frames-watercolor-painting-horse-5b367be02ea579.6460438115302973121911.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>76</xmin>
-			<ymin>18</ymin>
-			<xmax>837</xmax>
-			<ymax>900</ymax>
+			<xmin>82</xmin>
+			<ymin>1</ymin>
+			<xmax>815</xmax>
+			<ymax>890</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>family picture with frame</folder>
+	<folder>train</folder>
 	<filename>38.personalized-picture-frame-family-is-everything-1-1.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\family picture with frame\38.personalized-picture-frame-family-is-everything-1-1.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\38.personalized-picture-frame-family-is-everything-1-1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>102</xmin>
-			<ymin>155</ymin>
-			<xmax>926</xmax>
-			<ymax>773</ymax>
+			<xmin>176</xmin>
+			<ymin>193</ymin>
+			<xmax>841</xmax>
+			<ymax>695</ymax>
 		</bndbox>
 	</object>
 </annotation>

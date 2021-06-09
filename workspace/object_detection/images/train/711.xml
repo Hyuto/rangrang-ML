@@ -1,7 +1,7 @@
 <annotation>
-	<folder>pillow</folder>
+	<folder>train</folder>
 	<filename>711.jpg</filename>
-	<path>D:\wiks\rangrang\new\rangrang-ML-1\downloads\pillow\711.jpg</path>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\train\711.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>328</xmin>
-			<ymin>748</ymin>
-			<xmax>730</xmax>
-			<ymax>1155</ymax>
+			<xmin>73</xmin>
+			<ymin>693</ymin>
+			<xmax>429</xmax>
+			<ymax>962</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>580</xmin>
-			<ymin>875</ymin>
-			<xmax>1026</xmax>
-			<ymax>1167</ymax>
+			<xmin>447</xmin>
+			<ymin>593</ymin>
+			<xmax>716</xmax>
+			<ymax>796</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -69,6 +69,18 @@
 			<ymin>156</ymin>
 			<xmax>658</xmax>
 			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bantal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>904</xmin>
+			<ymin>539</ymin>
+			<xmax>1024</xmax>
+			<ymax>752</ymax>
 		</bndbox>
 	</object>
 </annotation>
