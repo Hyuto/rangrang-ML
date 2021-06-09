@@ -16,7 +16,6 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>202</xmin>
 			<xmax>254</xmax>
@@ -29,7 +28,6 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>145</xmin>
 			<xmax>203</xmax>
