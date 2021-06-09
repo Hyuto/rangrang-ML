@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
-	<filename>385_jpg.rf.a62337aed82e7d81b8957ad837f5c2dc.jpg</filename>
-	<path>385_jpg.rf.a62337aed82e7d81b8957ad837f5c2dc.jpg</path>
+	<folder />
+	<filename>352.jpg</filename>
+	<path>C:\Users\Wahyu Setianto\Desktop\rangrang-ML\workspace\object_detection\images\test\352.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>416</width>

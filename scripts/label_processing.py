@@ -52,8 +52,8 @@ def counter(path):
                 count[member[0].text] = 1
     
     print('[INFO] Label Counter')
-    for key, value in count.items():
-        print(f'  - {key} : {value}')
+    for i, (key, value) in enumerate(count.items()):
+        print(f'  {i + 1}. {key} : {value}')
 
 def search(path, indexs):
     """ Mencari image yang memiliki label tertentu """
@@ -82,6 +82,26 @@ def lower(path):
         with open(xml_file, "wb") as w:
             w.write(element)
 
+def UA(path):
+    """ lowering all label in the xml files """
+    for xml_file in glob.glob(path + '/*.xml'):
+        root = ET.parse(xml_file).getroot()
+        img_file = list(os.path.splitext(os.path.basename(root.find('filename').text)))
+        xml_file_ = list(os.path.splitext(os.path.basename(xml_file)))
+        if img_file[0] != xml_file_[0]:
+            img_file[0] = xml_file_[0]
+            if os.path.isfile(os.path.join(path, img_file[0] + '.jpg')):
+                img_file[1] = '.jpg'
+            else:
+                img_file[1] = '.jpeg'
+            img_file = img_file[0] + img_file[1]
+            root.find('filename').text = img_file
+
+            print(f'[INFO] Writing {xml_file}')
+            element = ET.tostring(root)
+            with open(xml_file, "wb") as w:
+                w.write(element)
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Labeling helper script")
     parser.add_argument("-d",
@@ -108,6 +128,10 @@ if __name__ == '__main__':
                         "--auto_remove",
                         help="Delete xlm files without img",
                         action='store_true')
+    parser.add_argument("-ua",
+                        "--update_annotation",
+                        help="Update annotation",
+                        action='store_true')
 
     args = parser.parse_args()
 
@@ -128,3 +152,6 @@ if __name__ == '__main__':
 
     if args.auto_remove:
         auto_remove(args.img_dir)
+
+    if args.update_annotation:
+        UA(args.img_dir)
